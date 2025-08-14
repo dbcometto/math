@@ -24,7 +24,7 @@ plt.axhline(0, color='black', linewidth=1)  # horizontal axis
 plt.axvline(0, color='black', linewidth=1)  # vertical axis
 
 plt.xlabel("x")
-plt.ylabel(r"$\dot{x}")
+plt.ylabel(r"$\dot{x}$")
 plt.title("3.1.1")
 plt.legend()
 
